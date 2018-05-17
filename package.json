@@ -1,0 +1,34 @@
+{
+  "name": "rearranger",
+  "version": "1.0.0",
+  "description": "meant to be something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibuurcio/rearranger.git"
+  },
+  "keywords": [
+    "AST",
+    "javascript",
+    "rearrange",
+    "reorder",
+    "functions",
+    "lexical",
+    "analysis",
+    "syntatic"
+  ],
+  "author": "Gabriel Tibúrcio <tibuurcio@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibuurcio/rearranger/issues"
+  },
+  "homepage": "https://github.com/tibuurcio/rearranger#readme",
+  "dependencies": {
+    "acorn": "^5.5.3",
+    "escodegen": "^1.9.1",
+    "npm": "^6.0.1"
+  }
+}
